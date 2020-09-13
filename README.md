@@ -2,23 +2,7 @@
 
 ![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
 
-# Women_government_GDP
-
-# Tableau project
-
-## Content
-
-- Project Description
-- Questions & Hypotheses
-- Datasets
-- Datasets organisation
-- Tableau organisation
-- Workflow
-- Results
-- Problems
-- Organisation
-- Links
-
+# Housing Stats
 
 ## Project Description
 
@@ -70,6 +54,5 @@ The repository is organised in:
 ## Links
 
 The links to repository is:
-
 
 https://github.com/Brunadiasmiguel/Housing_Statistical_Analysis
